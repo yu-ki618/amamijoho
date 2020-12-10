@@ -1,0 +1,3 @@
+firestore SQL�̈Ⴂ
+collections == table
+document == record
